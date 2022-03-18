@@ -51,6 +51,8 @@ export const ConnectWallet = () => {
     setIsModalOpen(true);
   };
 
+  if (loading) return <div className="h-12"></div>;
+
   return (
     <div>
       {isProcessing ? (

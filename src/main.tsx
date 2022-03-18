@@ -11,8 +11,9 @@ import { WalletLinkConnector } from "wagmi/connectors/walletLink";
 import "./index.css";
 import App from "./App";
 
-const chains = defaultChains;
+const chains = [...defaultChains];
 const defaultChain = chain.mainnet;
+
 const alchemyId = import.meta.env.VITE_ALCHEMY_ID as string;
 const infuraId = import.meta.env.VITE_INFURA_ID as string;
 

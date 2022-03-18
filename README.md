@@ -26,6 +26,16 @@ This project is built with the following open source libraries, frameworks and l
 | Rinkeby[]() | 4 | Testnet
 | Goerli[]() | 5 | Testnet
 | Kovan[]() | 42 | Testnet
+| Goerli[]() | 137 | Polygon Mainnet
+| Mumbai[]() | 80001 | Polygon Testnet
+
+---
+
+## Configure
+
+Open config.json file and change the network id to your network
+
+Create a .env file, by copying the .env-example file and include your alchemy and infura keys
 
 ---
 
