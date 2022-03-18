@@ -26,7 +26,7 @@ This project is built with the following open source libraries, frameworks and l
 | Rinkeby[]() | 4 | Testnet
 | Goerli[]() | 5 | Testnet
 | Kovan[]() | 42 | Testnet
-| Goerli[]() | 137 | Polygon Mainnet
+| Polygon[]() | 137 | Polygon Mainnet
 | Mumbai[]() | 80001 | Polygon Testnet
 
 ---
