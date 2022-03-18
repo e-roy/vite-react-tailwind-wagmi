@@ -1,6 +1,6 @@
 {
   "network": {
-    "name": "polygonMainnet",
-    "id": 80001
+    "name": "rinkeby",
+    "id": 4
   }
 }
