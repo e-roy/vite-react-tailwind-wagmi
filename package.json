@@ -1,6 +1,7 @@
 {
   "name": "vite-react-tailwind-wagmi-ts-template",
   "version": "1.0.0",
+  "homepage": "https://e-roy.github.io/vite-react-tailwind-wagmi",
   "keywords": [
     "web3",
     "boilerplate",
