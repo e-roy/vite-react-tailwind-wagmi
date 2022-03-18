@@ -23,7 +23,7 @@ export default ({ command }: ConfigEnv): UserConfig => {
       },
 
       build: {
-        outDir: join(srcRoot, "/build"),
+        outDir: join(srcRoot, "../build"),
         emptyOutDir: true,
         rollupOptions: {},
       },
@@ -51,7 +51,7 @@ export default ({ command }: ConfigEnv): UserConfig => {
     },
 
     build: {
-      outDir: join(srcRoot, "/build"),
+      outDir: join(srcRoot, "../build"),
       emptyOutDir: true,
       rollupOptions: {},
     },
